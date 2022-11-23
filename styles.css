@@ -1,0 +1,34 @@
+body{
+  background-color: #EEF1FF;
+}
+h1{
+  color: #66BFBF;
+}
+H3{
+  color: #66BFBF;
+}
+hr{
+  background-color : white;
+  border-style: dotted none none;
+  border-color: blue;
+  border-width: 5px;
+  width: 5%;
+}
+.Pizza {
+  background-color: Green;
+}
+.broccoli{
+  background-color: Red;
+}
+#Heading{
+  color: Blue;
+}
+.Rating{
+  color: Gold;
+}
+.p1{
+  font-size: 200%;
+}
+.p2{
+  font-size: 150%;
+}
